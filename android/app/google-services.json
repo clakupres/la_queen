@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405793716029",
+    "firebase_url": "https://laqueen-6facf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "laqueen-6facf",
+    "storage_bucket": "laqueen-6facf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405793716029:android:d8568287d82f17743b7754",
+        "android_client_info": {
+          "package_name": "com.example.la_queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405793716029-dnm8hfu1e4f9crhp7s96j6m9i0tsd5t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0USAjSqg1eFOu9HosJMGJlm1Jz_kvfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405793716029-dnm8hfu1e4f9crhp7s96j6m9i0tsd5t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
